@@ -1,67 +1,108 @@
-section {
-    display: flex;
-    width: 100%;
-}
-
-.diet {
-    margin-left: 130px;
-    font-size: 30px;
-    margin-top: 100px;
-    width: 50%;
-}
-
-.image-add {
-    margin-right: 100px;
-    width: 50%;
-}
-
-#orange {
-    color: orange;
-}
-
-#order {
-    background-color: orange;
-    border-radius: 10px;
-    text-decoration: none;
-}
-
-.A {
-    width: 100%;
-}
-
-.bi {
-    background-image: url(images/female/Person\ Image.png);
-    background-repeat: no-repeat;
-    width: 100%;
-}
-
-.about {
-    position: absolute;
-    margin-left: 1000px;
-    margin-top: 150px;
-    width: 100%;
-}
-
-.h {
-    text-align: center;
-    font-size: 30px;
-}
-
-.widt {
-    margin-left: 1000px;
-}
-
-.abc {
-    box-shadow: 20px 20px 10px red;
-    display: flex;
-}
-
-#k {}
-
-#t {
-    box-shadow: 10px 10px 40px gray;
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
-    padding-left: 10px;
-}
+    section {
+        display: flex;
+        width: 100%;
+    }
+    
+    .diet {
+        margin-left: 130px;
+        font-size: 30px;
+        margin-top: 100px;
+        width: 50%;
+    }
+    
+    .image-add {}
+    
+    #orange {
+        color: orange;
+    }
+    
+    #order {
+        background-color: orange;
+        border-radius: 10px;
+        text-decoration: none;
+    }
+    
+    .A {
+        width: 100%;
+    }
+    
+    .bi {
+        background-image: url(images/female/Person\ Image.png);
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+    
+    .about {
+        position: absolute;
+        margin-left: 1000px;
+        margin-top: 150px;
+        width: 100%;
+    }
+    
+    .h {
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .widt {
+        margin-left: 1000px;
+    }
+    
+    .t {
+        margin-left: 200px;
+        box-shadow: 30px 30px 100px gray;
+        padding-left: 100px;
+        padding-top: 30px;
+    }
+    
+    .k {
+        margin-left: 200px;
+        box-shadow: 30px 30px 100px gray;
+        padding-left: 100px;
+        padding-top: 30px;
+    }
+    
+    .text {
+        display: flex;
+        box-shadow: 30px 30px 100px gray;
+        justify-content: space-around;
+    }
+    
+    .header {
+        margin-left: 300px;
+    }
+    
+    .left {
+        margin-left: 400px;
+    }
+    
+    #bottom {
+        margin-top: 80px;
+    }
+    
+    #top {
+        margin-bottom: 50px;
+    }
+    
+    footer {
+        background-color: black;
+        height: 130px;
+        text-align: center;
+    }
+    
+    footer p {
+        font-size: 13px;
+        color: white;
+    }
+    
+    .footer-eat {
+        color: orangered;
+    }
+    
+    .footer-fresh {
+        color: #808080a4;
+    }
+    
+    Body {
+        border: 5px solid red
+    }
